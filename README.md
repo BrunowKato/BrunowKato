@@ -1,7 +1,5 @@
 <h1 align="center">Olá! 👋 Seja bem-vindo ao meu GitHub!</h1>
 
-<br>
-
 ## 💻 Tecnologias e Ferramentas
 
 <img align="right" alt="Pikachu" width="350" src="./pikachu.gif"/>
