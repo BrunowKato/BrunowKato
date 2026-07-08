@@ -2,12 +2,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BrunowKato&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunowKato&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-</p>
-
 ## 💻 Tecnologias e Ferramentas
 
 <img align="right" alt="Pikachu" width="350" src="./pikachu.gif"/>
